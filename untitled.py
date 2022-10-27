@@ -1,14 +1,11 @@
-#Python program to display calendar
+
 
 import calendar 
 from termcolor import colored
 f = ("""     
-       🅗🅐🅟🅟🅨  🅝🅔🅦     🅨🅔🅐🅡
-       
+   🅗🅐🅟🅟🅨 🅝🅔🅦  🅨🅔🅐     
          𝐜𝐚𝐥𝐞𝐧𝐝𝐚𝐫 𝟐𝟎𝟐𝟑
-
 """)
-
 print ( colored(f,"red") )
 
 
